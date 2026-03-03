@@ -64,6 +64,9 @@ By doing this, you've touched every part of the modern data stack:
 
 Infrastructure (VS Code, Venv, Git)
 
+<img width="1856" height="932" alt="Image" src="https://github.com/user-attachments/assets/542040f6-2a2d-4bc2-abdf-c5894c07e319" />
+<img width="480" height="184" alt="Image" src="https://github.com/user-attachments/assets/d7645bfd-cde4-4252-ab1f-78c4172563ff" />
+
 Data Engineering (Pandas, ETL)
 
 Data Science (Scikit-Learn, Regression)
