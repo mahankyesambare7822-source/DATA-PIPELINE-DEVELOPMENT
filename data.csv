@@ -1,0 +1,6 @@
+age,income,city,gender
+25.0,50000.0,New York,M
+30.0,60000.0,London,F
+,80000.0,Mumbai,F
+45.0,,New York,M
+35.0,75000.0,London,
